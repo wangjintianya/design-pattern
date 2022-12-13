@@ -1,1 +1,3 @@
-"# design-pattern" 
+# design-pattern
+
+## simple examples for design-pattern
